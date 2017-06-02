@@ -1,0 +1,15 @@
+ECHO OFF
+ECHO run
+ECHO demo for SETLOCAL
+
+REM 查看环境变量
+SET PATH
+PAUSE
+SETLOCAL
+REM 重新设置环境变量为当前目录
+SET PATH=D:\software
+SET PATH
+PAUSE
+ENDLOCAL /*还原原始设置
+SET PATH
+PAUSE

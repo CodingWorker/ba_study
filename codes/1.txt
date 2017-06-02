@@ -1,0 +1,42 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 7610-C38A
+
+ Directory of E:\deleting\bat_study\codes
+
+2017/06/02  19:34    <DIR>          .
+2017/06/02  19:34    <DIR>          ..
+2017/06/02  18:39                22 1.bat
+2017/06/02  19:37                 0 1.txt
+2017/06/02  18:37                82 2.bat
+2017/06/02  18:32                60 echo.bat
+2017/06/02  19:11                75 for.bat
+2017/06/02  19:17                84 for2.bat
+2017/06/02  18:53               309 if.bat
+2017/06/02  19:02               221 if2.bat
+2017/06/02  19:06               173 if3.bat
+2017/06/02  19:37                43 label.bat
+2017/06/02  18:46                72 pause.bat
+2017/06/02  19:24               229 setlocal.bat
+2017/06/02  19:32               422 shift.bat
+2017/06/02  19:33                 4 test.txt
+              14 File(s)          1,796 bytes
+               2 Dir(s)  182,520,545,280 bytes free
+ Volume in drive E has no label.
+ Volume Serial Number is 7610-C38A
+
+ Directory of E:\deleting\bat_study\codes
+
+2017/06/02  18:39                22 1.bat
+2017/06/02  18:37                82 2.bat
+2017/06/02  18:32                60 echo.bat
+2017/06/02  19:11                75 for.bat
+2017/06/02  19:17                84 for2.bat
+2017/06/02  18:53               309 if.bat
+2017/06/02  19:02               221 if2.bat
+2017/06/02  19:06               173 if3.bat
+2017/06/02  19:37                43 label.bat
+2017/06/02  18:46                72 pause.bat
+2017/06/02  19:24               229 setlocal.bat
+2017/06/02  19:32               422 shift.bat
+              12 File(s)          1,792 bytes
+               0 Dir(s)  182,520,545,280 bytes free
