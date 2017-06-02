@@ -1,0 +1,12 @@
+@ECHO OFF
+CALL :GetTimeStr TM
+ECHO TM
+
+:GetTimeStr
+setlocal
+set datestr=%date:~0,10%
+set datestr=%datestr:/=%
+set timestr=%time:~0,8%
+set timestr=%timestr::=%
+endlocal & set %1=%datestr%_%timestr%
+goto :eof
